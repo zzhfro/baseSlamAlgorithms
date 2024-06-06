@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zzhfro/code/3DVision/3DReconstruciton/bundleadjustment/build",
+  "command": "/usr/bin/c++   -I/usr/include/eigen3 -isystem /usr/local/include/opencv  -O3 -O3 -DNDEBUG   -o CMakeFiles/testba.dir/batest.cpp.o -c /home/zzhfro/code/3DVision/3DReconstruciton/bundleadjustment/batest.cpp",
+  "file": "/home/zzhfro/code/3DVision/3DReconstruciton/bundleadjustment/batest.cpp"
+}
+]

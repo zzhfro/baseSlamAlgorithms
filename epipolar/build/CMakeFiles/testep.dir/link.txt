@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -O3 -DNDEBUG  -rdynamic CMakeFiles/testep.dir/testEp.cpp.o  -o testep  -Wl,-rpath,/home/zzhfro/code/3DVision/3DReconstruciton/epipolar/build libep_shared.so 

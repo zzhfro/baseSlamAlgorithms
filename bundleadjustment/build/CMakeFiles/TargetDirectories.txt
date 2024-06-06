@@ -1,0 +1,3 @@
+/home/zzhfro/code/3DVision/3DReconstruciton/bundleadjustment/build/CMakeFiles/rebuild_cache.dir
+/home/zzhfro/code/3DVision/3DReconstruciton/bundleadjustment/build/CMakeFiles/edit_cache.dir
+/home/zzhfro/code/3DVision/3DReconstruciton/bundleadjustment/build/CMakeFiles/testba.dir

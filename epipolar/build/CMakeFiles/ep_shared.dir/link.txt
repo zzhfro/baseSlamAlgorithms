@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -O3 -DNDEBUG  -shared -Wl,-soname,libep_shared.so -o libep_shared.so CMakeFiles/ep_shared.dir/epipolarAlgorithm.cpp.o 
